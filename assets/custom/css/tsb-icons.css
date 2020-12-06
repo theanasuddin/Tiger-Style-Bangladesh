@@ -1,0 +1,285 @@
+@font-face {
+  font-family: "tsb";
+  src: url("../fonts/tsb.eot?gq2yr8");
+  src: url("../fonts/tsb.eot?gq2yr8#iefix") format("embedded-opentype"),
+    url("../fonts/tsb.ttf?gq2yr8") format("truetype"),
+    url("../fonts/tsb.woff?gq2yr8") format("woff"),
+    url("../fonts/tsb.svg?gq2yr8#tsb") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="tsb-icon"],
+[class*=" tsb-icon"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "tsb" !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.tsb-iconmenu-icon:before {
+  content: "\e940";
+}
+
+.tsb-iconuser-register:before {
+  content: "\e93f";
+}
+
+.tsb-iconpassword:before {
+  content: "\e93e";
+}
+
+.tsb-iconuser:before {
+  content: "\e90c";
+}
+
+.tsb-iconDiagonal-arrow:before {
+  content: "\e93b";
+}
+
+.tsb-iconsquare-icon:before {
+  content: "\e93c";
+}
+
+.tsb-iconplay:before {
+  content: "\e93a";
+}
+
+.tsb-iconscreen:before {
+  content: "\e937";
+}
+
+.tsb-iconfile:before {
+  content: "\e938";
+}
+
+.tsb-iconhead-set-light:before {
+  content: "\e939";
+}
+
+.tsb-iconnews:before {
+  content: "\e934";
+}
+
+.tsb-iconcalender:before {
+  content: "\e935";
+}
+
+.tsb-iconarrow-light:before {
+  content: "\e936";
+}
+
+.tsb-iconbussiness:before {
+  content: "\e930";
+}
+
+.tsb-iconbussiness2:before {
+  content: "\e931";
+}
+
+.tsb-iconbussiness3:before {
+  content: "\e932";
+}
+
+.tsb-iconbussiness4:before {
+  content: "\e933";
+}
+
+.tsb-iconarrow-down:before {
+  content: "\e900";
+}
+
+.tsb-iconarrow-left:before {
+  content: "\e901";
+}
+
+.tsb-iconarrow-next:before {
+  content: "\e902";
+}
+
+.tsb-iconarrow-right:before {
+  content: "\e903";
+}
+
+.tsb-iconcart:before {
+  content: "\e904";
+}
+
+.tsb-iconcart-icon:before {
+  content: "\e905";
+}
+
+.tsb-iconcomment:before {
+  content: "\e906";
+}
+
+.tsb-iconcommingSoon:before {
+  content: "\e907";
+}
+
+.tsb-iconcompare:before {
+  content: "\e908";
+}
+
+.tsb-icondata:before {
+  content: "\e909";
+}
+
+.tsb-icondevelopment-icon:before {
+  content: "\e90a";
+}
+
+.tsb-icondown-arrow:before {
+  content: "\e90b";
+}
+
+.tsb-iconemail:before {
+  content: "\e93d";
+}
+
+.tsb-iconeye:before {
+  content: "\e90d";
+}
+
+.tsb-iconfacebook:before {
+  content: "\e90e";
+}
+
+.tsb-icongears-icon:before {
+  content: "\e90f";
+}
+
+.tsb-icongoogle-icon:before {
+  content: "\e910";
+}
+
+.tsb-icongooglePlus:before {
+  content: "\e911";
+}
+
+.tsb-icongrid:before {
+  content: "\e912";
+}
+
+.tsb-iconheadset-icon:before {
+  content: "\e913";
+}
+
+.tsb-iconheart:before {
+  content: "\e914";
+}
+
+.tsb-iconinstagram:before {
+  content: "\e915";
+}
+
+.tsb-iconinstagram-icon:before {
+  content: "\e916";
+}
+
+.tsb-iconlamp-icon:before {
+  content: "\e917";
+}
+
+.tsb-iconlink:before {
+  content: "\e918";
+}
+
+.tsb-iconlinkedIn:before {
+  content: "\e919";
+}
+
+.tsb-iconlinkedin-icon:before {
+  content: "\e91a";
+}
+
+.tsb-iconlist:before {
+  content: "\e91b";
+}
+
+.tsb-iconmap-icon:before {
+  content: "\e91c";
+}
+
+.tsb-iconmobileApp-icon:before {
+  content: "\e91d";
+}
+
+.tsb-iconphone:before {
+  content: "\e91e";
+}
+
+.tsb-iconphone-icon:before {
+  content: "\e91f";
+}
+
+.tsb-iconpinterest:before {
+  content: "\e920";
+}
+
+.tsb-iconprice:before {
+  content: "\e921";
+}
+
+.tsb-iconprint:before {
+  content: "\e922";
+}
+
+.tsb-iconquote-left-light:before {
+  content: "\e923";
+}
+
+.tsb-iconquote-right-light:before {
+  content: "\e924";
+}
+
+.tsb-iconrocket-icon:before {
+  content: "\e925";
+}
+
+.tsb-iconsearch-icon:before {
+  content: "\e926";
+}
+
+.tsb-iconshare:before {
+  content: "\e927";
+}
+
+.tsb-iconshare-icon:before {
+  content: "\e928";
+}
+
+.tsb-icontags:before {
+  content: "\e929";
+}
+
+.tsb-icontags-light:before {
+  content: "\e92a";
+}
+
+.tsb-icontwitter:before {
+  content: "\e92b";
+}
+
+.tsb-icontwitter-icon:before {
+  content: "\e92c";
+}
+
+.tsb-iconvision-icon:before {
+  content: "\e92d";
+}
+
+.tsb-iconwebDesign-icon:before {
+  content: "\e92e";
+}
+
+.tsb-iconwhatapp-icon:before {
+  content: "\e92f";
+}
